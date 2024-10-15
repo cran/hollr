@@ -1,0 +1,11 @@
+206db9b50c4ee3db08de96bf28b58ad4 *DESCRIPTION
+b17763e0400a3cfe38b8d773995a7627 *LICENSE
+5c1f6446a31ab81b2ef9da6a72d2287f *NAMESPACE
+89e4cbc8735519c7440339b082835cdb *R/hollr.R
+aaf89a7db45254d6b545924da197b02a *R/hollr_local_batches.R
+96c376371f346f95d17ac348773c0ff6 *R/util.R
+c204e03600e7f9cfff1ff8ecd3d091f5 *R/zzz.R
+d28e2b7332cdb6c22f078294a1ecd2de *README.md
+2c89bb902671cfbfe9ed51b361848e1f *inst/python/__pycache__/llm_functions.cpython-39.pyc
+ac047ab0fe6f9c9523a7d53e6cfec199 *inst/python/llm_functions.py
+a22b9267beecab66939016ed551d03ac *man/hollr.Rd
